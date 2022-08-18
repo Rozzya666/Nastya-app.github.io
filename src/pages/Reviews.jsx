@@ -1,6 +1,11 @@
 import React from "react";
 import classes from '../components/UI/HeaderLi/HeaderLi.module.css'
-
+import review1 from './img/review1.jpg'
+import review2 from './img/review2.jpg'
+import review3 from './img/review3.jpg'
+import review4 from './img/review4.jpg'
+import review5 from './img/review5.jpg'
+import '../App.css'
 function Reviews() {
     const styles = {
         h2: {
@@ -12,7 +17,13 @@ function Reviews() {
     return(
         <div>
             <h2 style={styles.h2} className={classes.HeaderLi}>Відгуки:</h2>
-            <h3 style={{fontSize: '40px', fontWeight: 'bold', color: '#838383', textAlign: 'center'}}>Наразі інформацію ще не додали, спробуйте пізніше...</h3>
+            <div className="review_block">
+                <img src={review1} alt="review" />
+                <img src={review2} alt="review" />
+                <img src={review3} alt="review" />
+                <img src={review4} alt="review" />
+                <img src={review5} alt="review" />
+            </div>
         </div>
     )
 }

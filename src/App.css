@@ -128,3 +128,14 @@ table {
 .headerul li:hover{
     font-size: small
 }
+.review_block img{
+  width: 330px;
+}
+.review_block{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background-color: #dbdbdb;
+  justify-content: center;
+  align-items: center;
+}
