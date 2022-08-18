@@ -1,0 +1,11 @@
+.HeaderLi{
+    transition: all 0.5s ease;  
+    background-color: #30d5c8;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid #838383;
+    margin: 3px 0;
+}
+.HeaderLi:hover{
+    font-size: small;
+  }
