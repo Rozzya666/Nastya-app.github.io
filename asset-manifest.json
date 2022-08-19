@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nastya-app.github.io/static/css/main.105bec55.css",
+    "main.js": "/nastya-app.github.io/static/js/main.e0ec90ba.js",
+    "static/media/keratin1.jpg": "/nastya-app.github.io/static/media/keratin1.eddd5573fc24791a41d4.jpg",
+    "static/media/price.jpg": "/nastya-app.github.io/static/media/price.d0b4abb7b8b2523675a6.jpg",
+    "static/media/nastya.jpg": "/nastya-app.github.io/static/media/nastya.68e7057675e985e15e37.jpg",
+    "static/media/keratin2.jpg": "/nastya-app.github.io/static/media/keratin2.5992b60966a0edf05552.jpg",
+    "static/media/review4.jpg": "/nastya-app.github.io/static/media/review4.6e5ba2a15fcefc791785.jpg",
+    "static/media/price2.jpg": "/nastya-app.github.io/static/media/price2.5440b1034fec2d239fad.jpg",
+    "static/media/review5.jpg": "/nastya-app.github.io/static/media/review5.a2ebaea24a287fa40a0f.jpg",
+    "static/media/keratin3.jpg": "/nastya-app.github.io/static/media/keratin3.5e18a9bc6a7888c15175.jpg",
+    "static/media/review1.jpg": "/nastya-app.github.io/static/media/review1.0ca60dce57cdd4551baf.jpg",
+    "static/media/review3.jpg": "/nastya-app.github.io/static/media/review3.38119d854cd5ff7908d3.jpg",
+    "static/media/review2.jpg": "/nastya-app.github.io/static/media/review2.1e723f8017b3258b2daf.jpg",
+    "index.html": "/nastya-app.github.io/index.html",
+    "main.105bec55.css.map": "/nastya-app.github.io/static/css/main.105bec55.css.map",
+    "main.e0ec90ba.js.map": "/nastya-app.github.io/static/js/main.e0ec90ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.105bec55.css",
+    "static/js/main.e0ec90ba.js"
+  ]
+}
