@@ -12,7 +12,7 @@ function Footer() {
                     </a>
                 </li>
                 <li>
-                    <a target='_blank' href="https://web.telegram.org/z/#866582382">
+                    <a target='_blank' href="https://t.me/keratin_botox_kuchma">
                         <img style={{width: '60px', height: '60px'}} src="https://cdn.icon-icons.com/icons2/2201/PNG/512/telegram_logo_circle_icon_134012.png"></img>
                     </a>
                 </li>

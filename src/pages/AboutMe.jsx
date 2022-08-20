@@ -20,7 +20,7 @@ const AboutMe = () => {
           <h2 style={styles.h2} className={classes.HeaderLi}>Про мене:</h2>
           <img src={img} style={{padding: '15px', margin: '0 auto', maxWidth: '320px', display: 'flex', justifyContent: 'center'}}></img>
           <h1 style={{fontSize: '32px', textAlign: 'center', margin: '0 auto', maxWidth: '725px'}}>
-            Мене звуть <span style={{color: '#30d5c8', fontWeight: 'bold'}}>Анастасія</span>, я майстер кератинового випрямлення волосся
+            Мене звати <span style={{color: '#30d5c8', fontWeight: 'bold'}}>Анастасія</span>, я майстер кератинового випрямлення волосся
           </h1>
        </div>
     )
